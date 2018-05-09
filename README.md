@@ -8,4 +8,4 @@ Nozzle profiles include:
 2. Taz Single Nozzle ToolHead, 0.50 mm
 3. Taz Flexy Tool Head
 
-['Our Twitter'](http://www.twitter.com/APIL_TGH)
+[Our Twitter](http://www.twitter.com/APIL_TGH)
